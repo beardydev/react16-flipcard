@@ -1,6 +1,6 @@
 {
   "name": "react-flipcard",
-  "version": "0.2.1",
+  "version": "0.16.1",
   "description": "React flip card component",
   "main": "lib/main.js",
   "repository": {
@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/mzabriskie/react-flipcard",
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "dependencies": {
     "classnames": "^2.2.0"
